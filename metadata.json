@@ -1,0 +1,5 @@
+{
+  "name": "Kama Clock Controller",
+  "description": "Set alarms and modes for your Kama Clock via Bluetooth.",
+  "requestFramePermissions": ["bluetooth", "geolocation"]
+}
